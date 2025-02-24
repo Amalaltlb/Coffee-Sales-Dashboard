@@ -28,10 +28,9 @@ This project analyzes coffee sales data to identify trends, top customers, and r
 
 ## Key Insights & Outcomes
 
-- Identified top-performing products and customer preferences by country.
+- Identified top customer preferences by country.
 - Developed an interactive dashboard for better decision-making.
-- Improved data accuracy by resolving missing values and standardizing formats.
-
+  
 ## How to Use
 
 1. Open the raw dataset: `coffeeOrders_RawData.xlsx`.
