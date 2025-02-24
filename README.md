@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project analyzes coffee sales data to identify trends, top customers, and regional sales performance using **Microsoft Excel** only. It involves data cleaning, analysis, and the creation of an interactive dashboard for data-driven decision-making.
+This project analyzes coffee sales data to identify trends, top customers, and regional sales performance using **Microsoft Excel** only. It involves data cleaning to ulimatly create an interactive dashboard for data-driven decision-making.
 
 ## Dataset
 
