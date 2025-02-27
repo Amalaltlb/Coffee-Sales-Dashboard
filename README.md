@@ -25,11 +25,6 @@ This project analyzes coffee sales data to identify trends, top customers, and r
   - **Dashboard Creation**
     - Building an interactive dashboard to display key metrics.
     - Formatting techniques to enhance visual appeal.
-
-## Key Insights & Outcomes
-
-- Identified top customer preferences by country.
-- Developed an interactive dashboard for better decision-making.
   
 ## How to Use
 
