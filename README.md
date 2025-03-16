@@ -22,16 +22,16 @@ This project involves analyzing coffee sales data to identify trends, top custom
 
 ### 3. Sales by Country
 - Compared sales performance across different countries.
-- Created **visualizations** to identify high-performing and underperforming countries.
-- **Insights**: Enables business leaders to focus on countries with high sales performance and adjust strategies for countries underperforming.
+- Created **visualizations** to identify top 3 high-performing countries.
+- **Insights**: Enables business leaders to focus on countries with high sales performance, and make data-driven decisions to enhance sales strategies in other regions by identifying areas with potential for growth.
 
 ### 4. Interactive Dashboard
 - Built an interactive dashboard using PivotTables and PivotCharts.
 - Used **Timelines** and **Slicers** for users to filter and interact with the data, enabling dynamic exploration of key metrics.
 - Users can filter by:
-  - **Time Period** (monthly, quarterly, yearly)
-  - **Product Type** (coffee size, roast type)
-  - **Customer Segments** (including top customers and loyalty card users)
+  - **Time Period** (e.g., monthly, quarterly, yearly)
+  - **Product Type** (e.g., coffee size, roast type)
+  - **Customer Segments** (e.g., top customers and loyalty card users)
 
 ## Tools & Techniques
 - **Microsoft Excel**: For data cleaning, analysis, and dashboard creation.
