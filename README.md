@@ -64,10 +64,12 @@ The interactive dashboard enables users to interact with and explore coffee sale
 2. **Review the Cleaned Data and Dashboard**: Open the `coffeeOrdersProject_Dashboard.xlsx` to interact with the dashboard and explore visualizations.
 3. **Interact with the Dashboard**: Use the PivotTables, PivotCharts, Timelines, and Slicers to filter data and analyze trends.
 
+## Acknowledgments
+This project was inspired by Mo Chen, a data analyst in the financial sector. His YouTube tutorial, "Data Visualization Projects Portfolio for Resumes," guided me through the process of data cleaning and dashboard creation in Excel.
+
 ## Conclusion
 
 This project demonstrates the ability to create an interactive, data-driven dashboard using Microsoft Excel. By leveraging PivotTables, PivotCharts, and interactive filters such as Timelines and Slicers, the dashboard provides valuable insights into coffee sales trends, customer behavior, and sales performance by country. The dashboard empowers businesses to make data-backed decisions for growth and optimization, allowing users to explore key metrics, identify high-performing customers and regions, and tailor sales and marketing strategies accordingly.
 
-## Acknowledgments
-This project was inspired by Mo Chen, a data analyst in the financial sector. His YouTube tutorial, "Data Visualization Projects Portfolio for Resumes," guided me through the process of data cleaning and dashboard creation in Excel.
+
 
