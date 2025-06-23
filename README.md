@@ -62,7 +62,7 @@ This Excel dashboard is organized into three main analysis axes:
 
 * `coffeeOrders_RawData.xlsx` – Original raw data
 * `coffeeOrdersProject_Dashboard.xlsx` – Cleaned data and dashboard file
-* PNG files – Dashboard visuals
+* `coffee sales dashboard.png` – Dashboard visuals
 * `README.md` – Full project overview
 
 ---
