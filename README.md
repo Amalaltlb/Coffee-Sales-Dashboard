@@ -44,7 +44,7 @@ This Excel dashboard is organized into three main analysis axes:
 ## 🖼 Dashboard Preview
 
 <h3>📈 Excel Dashboard Screenshot</h3>
-<img src="https://github.com/YOUR_USERNAME/YOUR_REPO/raw/main/coffee_sales_dashboard.png" width="700"/>
+<img src="https://github.com/YOUR_USERNAME/YOUR_REPO/raw/main/coffee sales dashboard.png" width="700"/>
 
 > Shows sales trends, top customers, and country-wise sales breakdown with interactive filters.
 
