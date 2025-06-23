@@ -1,75 +1,90 @@
-# Coffee Sales Data Dashboard
+# ☕️ Coffee Sales Dashboard - Excel
 
-## Overview
-This project involves analyzing coffee sales data to identify trends, top customers, and sales by country performance. The goal is to develop an interactive dashboard using Microsoft Excel, providing actionable insights for data-driven decision-making. The analysis focuses on sales patterns, key customer segments, and country-specific sales performance, enabling users to make informed decisions based on the data.
+This project demonstrates the creation of an interactive Excel dashboard to analyze coffee sales data from various regions. The goal is to visualize trends, identify top customers, and evaluate sales performance by country to support data-driven business decisions.
 
-## Key Features
+---
 
-### 1. Sales Trend Analysis
-- Analyzed overall coffee sales trends over time, including monthly and seasonal variations.
-- Visualized sales performance by product, region, and customer segment.
-- **Insights**: Helps identify patterns in sales, peak periods, and potential areas for product stocking or promotional activities.
+## 📊 Dashboard Features
 
-### 2. Top Customer Identification
-- Identified top 5 customers based on total sales and purchasing behaviors using PivotTables.
-- Displayed the top customers in order from highest to lowest sales with a **bar chart**.
-- **Insights from the Top 5 Customer Bar Chart**:
-  - **Customer Value**: Identifies the customers contributing most to revenue.
-  - **Customer Loyalty**: Highlights top customers who may be loyal, especially those using loyalty cards.
-  - **Targeted Marketing**: Enables targeted campaigns for retaining and acquiring similar customers.
-  - **Sales Growth Opportunity**: Recognizes opportunities to grow sales by acquiring more customers like your top ones.
-  - **Purchasing Preferences**: Helps determine popular product choices (e.g., roast types or coffee sizes) among top customers.
+This Excel dashboard is organized into three main analysis axes:
 
-### 3. Sales by Country
-- Compared sales performance across different countries.
-- Created **visualizations** to identify top 3 high-performing countries.
-- **Insights**: Enables business leaders to focus on countries with high sales performance, and make data-driven decisions to enhance sales strategies in other regions by identifying areas with potential for growth.
+1. **Sales Trend Analysis**
 
-### 4. Interactive Dashboard
-- Built an interactive dashboard using PivotTables and PivotCharts.
-- Used **Timelines** and **Slicers** for users to filter and interact with the data, enabling dynamic exploration of key metrics.
-- Users can filter by:
-  - **Time Period** (e.g., monthly, quarterly, yearly)
-  - **Product Type** (e.g., coffee size, roast type)
-  - **Customer Segments** (e.g., top customers and loyalty card users)
+   * Visualizes monthly and seasonal sales trends
+   * Highlights performance by product type, region, and customer segment
+   * **Insights**: Identify peak sales periods and optimize inventory and promotions
 
-## Tools & Techniques
-- **Microsoft Excel**: For data cleaning, analysis, and dashboard creation.
-- **XLOOKUP** and **INDEX MATCH**: For data retrieval and referencing.
-- **IF functions**: Applied for conditional logic and categorization.
-- **PivotTables and PivotCharts**: For summarizing and visualizing the data.
-- **Timelines and Slicers**: For creating an interactive, user-friendly experience.
+2. **Top Customer Identification**
 
-## Dataset
-- **Raw Data**: `coffeeOrders_RawData.xlsx` – Original unprocessed data.
-- **Processed Data**: `coffeeOrdersProject_Dashboard.xlsx` – Cleaned and structured data used to build the dynamic dashboard.
+   * Ranks top 5 customers by sales volume
+   * Visualized using a bar chart
+   * **Insights**:
 
-## Users
-The dashboard can be used by the following groups:
+     * Understand customer value and loyalty
+     * Target similar customer profiles for marketing
+     * Highlight top product preferences
 
-- **Sales Managers**
-  - Monitor sales trends and customer behavior, optimize sales strategies, and track the performance of regional sales.
-  
-- **Marketing Teams**
-  - Identify top customer segments, plan targeted marketing campaigns, and measure campaign performance based on sales data.
-  
-- **Business Analysts and Decision Makers**
-  - Explore regional sales data and analyze key performance indicators (KPIs) to guide business decisions and strategy formulation.
+3. **Sales by Country**
 
-## Impact
-The interactive dashboard enables users to interact with and explore coffee sales data in real time, providing insights that can help drive decisions on inventory management, marketing, and sales strategies. It allows businesses to better understand sales patterns, optimize product offerings, and enhance customer targeting.
+   * Compares performance across countries
+   * Identifies top 3 high-performing regions
+   * **Insights**: Focus on strong markets and strategize growth in underperforming areas
 
-## How to Use
-1. **Explore the Data**: Open the `coffeeOrders_RawData.xlsx` file to view the raw data.
-2. **Review the Cleaned Data and Dashboard**: Open the `coffeeOrdersProject_Dashboard.xlsx` to interact with the dashboard and explore visualizations.
-3. **Interact with the Dashboard**: Use the PivotTables, PivotCharts, Timelines, and Slicers to filter data and analyze trends.
+4. **Interactive Dashboard**
 
-## Acknowledgments
-This project was inspired by Mo Chen, a data analyst in the financial sector. His YouTube tutorial, "Data Visualization Projects Portfolio for Resumes," guided me through the process of data cleaning and dashboard creation in Excel.
+   * Built using PivotTables and PivotCharts
+   * Includes Slicers and Timelines for dynamic filtering by:
 
-## Conclusion
+     * Time period (monthly, quarterly, yearly)
+     * Product type (e.g., roast or size)
+     * Customer segment (e.g., loyalty users)
 
-This project demonstrates the ability to create an interactive, data-driven dashboard using Microsoft Excel. By leveraging PivotTables, PivotCharts, and interactive filters such as Timelines and Slicers, the dashboard provides valuable insights into coffee sales trends, customer behavior, and sales performance by country. The dashboard empowers businesses to make data-backed decisions for growth and optimization, allowing users to explore key metrics, identify high-performing customers and regions, and tailor sales and marketing strategies accordingly.
+---
 
+## 🖼 Dashboard Preview
 
+<h3>📈 Excel Dashboard Screenshot</h3>
+<img src="https://github.com/YOUR_USERNAME/YOUR_REPO/raw/main/coffee_sales_dashboard.png" width="700"/>
+
+> Shows sales trends, top customers, and country-wise sales breakdown with interactive filters.
+
+---
+
+## 🔍 Key Insights
+
+* Monthly coffee sales show clear seasonal peaks around Q4
+* The top 5 customers account for a significant portion of total revenue
+* The USA, UK, and Canada are the highest-performing countries in terms of revenue
+
+---
+
+## 📎 Files & Deliverables
+
+* `coffeeOrders_RawData.xlsx` – Original raw data
+* `coffeeOrdersProject_Dashboard.xlsx` – Cleaned data and dashboard file
+* PNG files – Dashboard visuals
+* `README.md` – Full project overview
+
+---
+
+## 💬 What I Learned
+
+* Applied Excel functions like XLOOKUP, IF, and INDEX-MATCH for data prep
+* Used PivotTables and PivotCharts to summarize and visualize data
+* Designed user-friendly dashboards with slicers and timelines
+* Gained insight into real-world use of Excel for business analytics
+
+---
+
+## 🛠 Tools Used
+
+Microsoft Excel • PivotTables • XLOOKUP • IF Functions • INDEX MATCH • Timelines & Slicers
+
+---
+
+## 👥 Target Users
+
+* **Sales Managers**: Track sales trends and performance
+* **Marketing Teams**: Identify key customers and plan promotions
+* **Business Leaders**: Evaluate KPIs and inform strategic decisions
 
